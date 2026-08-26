@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 52" fill="none" role="img" aria-label="Arkimeteks logo">
+  <!-- Geometric mark: overlapping squares forming an "A" hint -->
+  <rect x="0" y="10" width="18" height="18" fill="#0B6E4F" opacity="0.9"/>
+  <rect x="10" y="20" width="18" height="18" fill="#1B4F72" opacity="0.9"/>
+  <rect x="20" y="10" width="18" height="18" fill="#0B6E4F" opacity="0.6"/>
+  <!-- Wordmark -->
+  <text x="48" y="30" font-family="Montserrat, sans-serif" font-weight="700" font-size="20" letter-spacing="2" fill="#1A1A2E">ARKI</text>
+  <text x="100" y="30" font-family="Montserrat, sans-serif" font-weight="300" font-size="20" letter-spacing="2" fill="#0B6E4F">METEKS</text>
+  <!-- Descriptor line -->
+  <text x="48" y="43" font-family="Inter, sans-serif" font-weight="400" font-size="7.5" letter-spacing="3.5" fill="#6B7280">INGENIERÍA · CONSTRUCCIÓN</text>
+</svg>
